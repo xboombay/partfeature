@@ -1,0 +1,65 @@
+#title{
+  background-color: #ffffff;
+  color: #C8AE7D;
+}
+
+.container-fluid{
+  padding: 10% 15% 10% 15%;
+}
+
+
+.detail-button {
+  margin: 3% 3% 5% 35%;
+  background-color: #765827;
+  border: 0;
+  font-family: 'Mitr', sans-serif;
+
+}
+
+.p1{
+  text-align: center;
+}
+
+.titlename{
+  text-align: center;
+}
+
+.title-image {
+  width: 80%;
+}
+
+h1 {
+  font-family: 'Mitr', sans-serif;
+  font-size: 4rem;
+  line-height: 1.5;
+  font-weight: medium;
+}
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 3%;
+}
+
+h3 {
+  font-family: 'Mitr', sans-serif;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Mitr', sans-serif;
+  color: #8f8f8f;
+}
+
+.icon {
+  color: #65451F;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #a0a0a0;
+}
+
